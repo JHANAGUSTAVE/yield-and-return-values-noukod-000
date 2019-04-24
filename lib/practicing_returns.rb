@@ -10,6 +10,5 @@ def hello(array)
   return collection
 end
 
-binding.pry
-"Hi, #{name}"
+
 #hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
